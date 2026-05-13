@@ -1,46 +1,54 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guia de Apoio Social - RJ</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Guia de Apoio Social - RJ</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
 
-    <header>
-        <h1>Guia Digital Comunitário</h1>
-        <p>Conectando moradores a serviços sociais e ONGs no Rio de Janeiro.</p>
-    </header>
+        <header>
+            <h1>Guia Digital Comunitário</h1>
+            <p>Conectando moradores a serviços sociais e ONGs no Rio de Janeiro.</p>
+        </header>
 
-    <main>
-        <section id="sobre">
-            <h2>Sobre o Projeto</h2>
-            <p>Este site tem como objetivo facilitar o acesso a informações sobre instituições que oferecem suporte gratuito à comunidade, promovendo o fortalecimento social da nossa região.</p>
-        </section>
+        <main>
+            <section id="sobre">
+                <h2>Sobre o Projeto</h2>
+                <p>Este site tem como objetivo facilitar o acesso a informações sobre instituições que oferecem suporte gratuito à comunidade, promovendo o fortalecimento social da nossa região.</p>
+            </section>
+            <section id="ongs">
+                <h2>Instituições Parceiras</h2>
+                <div class="container-cards">
+                    <article class="card">
+                    <h3>Ação da Cidadania</h3>
+                        <p><strong>Foco:</strong> Combate à fome e segurança alimentar.</p>
+                        <p><strong>Local:</strong> Atuação em diversas comunidades do RJ.</p>
+                        <button onclick="window.open('https://www.acaodacidadania.org.br/', '_blank')">Ver Site Oficial</button>
+                    </article>
 
-        <section id="ongs">
-            <h2>Instituições Parceiras</h2>
-            <div class="container-cards">
-                <article class="card">
-                    <h3>ONG Exemplo 1</h3>
-                    <p>Atuação: Educação e Reforço Escolar.</p>
-                    <button onclick="saibaMais()">Ver Detalhes</button>
-                </article>
+                    <article class="card">
+                        <h3>Redes da Maré</h3>
+                        <p><strong>Foco:</strong> Educação, cultura e direitos humanos.</p>
+                        <p><strong>Local:</strong> Complexo da Maré e arredores.</p>
+                        <button onclick="window.open('https://redesdamare.org.br/', '_blank')">Saiba Mais</button>
+                    </article>
 
-                <article class="card">
-                    <h3>ONG Exemplo 2</h3>
-                    <p>Atuação: Distribuição de Alimentos e Apoio Jurídico.</p>
-                    <button onclick="saibaMais()">Ver Detalhes</button>
-                </article>
-            </div>
-        </section>
-    </main>
+                    <article class="card">
+                        <h3>Centro de Referência de Assistência Social (CRAS)</h3>
+                        <p><strong>Foco:</strong> Atendimento socioassistencial e programas sociais.</p>
+                        <p><strong>Dica:</strong> Procure a unidade mais próxima do seu bairro.</p>
+                        <button onclick="alert('Consulte o site da prefeitura para endereços específicos.')">Ver Endereços</button>
+                    </article>
+                </div>
+            </section>
+        </main>
 
-    <footer>
-        <p>&copy; 2026 - Projeto de Extensão UNISUAM</p>
-    </footer>
+            <footer>
+                <p>&copy; 2026 - Projeto de Extensão UNISUAM</p>
+            </footer>
 
-    <script src="js/script.js"></script>
-</body>
+            <script src="js/script.js"></script>
+    </body>
 </html>
