@@ -1,12 +1,3 @@
-Aqui está o ficheiro **README.md** estruturado conforme todas as exigências da proposta de extensão da UNISUAM[cite: 195, 223]. Ele inclui o objetivo social, as tecnologias utilizadas, a estrutura do projeto e os seus dados de identificação[cite: 239, 261].
-
-O seu ficheiro Markdown está pronto
-[file-tag: code-generated-file-0-1778699175048616429]
-
-### **Conteúdo do README.md**
-Pode também copiar o conteúdo abaixo diretamente para o seu ficheiro no VSCode:
-
-```markdown
 # Guia Digital Comunitário - Rio de Janeiro
 
 ## 📝 Descrição do Projeto
