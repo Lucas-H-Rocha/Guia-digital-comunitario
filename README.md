@@ -23,7 +23,7 @@ Para o desenvolvimento deste projeto, foram aplicadas as seguintes tecnologias e
 
 ## 🔗 Links de Acesso
 * **Repositório no GitHub:** [https://github.com/Lucas-H-Rocha/guia-digital-comunitario](https://github.com/Lucas-H-Rocha/guia-digital-comunitario)
-* **Site Publicado (GitHub Pages):** [https://lucas-h-rocha.github.io/guia-digital-comunitario/](https://lucas-h-rocha.github.io/guia-digital-comunitario/)
+* **Site Publicado (GitHub Pages):** [https://lucas-h-rocha.github.io/guia-digital-comunitario/]( https://lucas-h-rocha.github.io/Guia-digital-comunitario/)
 
 ## 📂 Estrutura de Pastas
 ```text
